@@ -1,8 +1,14 @@
 #Online Forum
+
+
 ->Description
+
+
 This is an online forum project that allows users to participate in discussions and share their thoughts on various programming languages and topics. The forum features different categories for popular languages like C, HTML, Java, JavaScript, PHP, and Python, offering a space for users to engage in discussions related to coding and development. The forum's interface is designed to be simple, user-friendly, and easy to navigate.
 
 ->Features
+
+
 User Registration & Authentication: Allows users to register, log in, and participate in discussions.
 
 Topic Categorization: Different categories for each programming language like C, HTML, Java, etc.
@@ -17,7 +23,9 @@ Admin Panel: Admins can moderate posts, delete spam, and manage users.
 
 Real-time Updates: New posts and replies are reflected immediately without needing a page refresh.
 
-Technologies Used
+->Technologies Used
+
+
 Frontend: HTML, CSS, JavaScript
 
 Backend: PHP
@@ -28,7 +36,9 @@ Additional Libraries: JQuery, Bootstrap (if used)
 
 Hosting: GitHub Pages or any web server (e.g., Apache)
 
-Setup
+->Setup
+
+
 To get started with this project, follow these steps:
 
 Clone the Repository:
@@ -53,9 +63,13 @@ Run the Project:
 
 Start the server and navigate to http://localhost/{project_folder}/ in your browser to view the forum.
 
-Screenshot
+->Screenshots
+
+
 go to screenshot folder to view the screenshots /Online-forum/screenshots
 
-Contribution
+->Contribution
+
+
 Feel free to fork the repository and submit pull requests for improvements. Contributions are welcome!
 
