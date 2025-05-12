@@ -68,6 +68,11 @@ Start the server and navigate to http://localhost/{project_folder}/ in your brow
 
 go to screenshot folder to view the screenshots /Online-forum/screenshot
 
+->Video
+
+To watch the video go to my linkedin page https://in.linkedin.com/in/srivarshini-komirishetty-7aa9842ba
+
+
 ->Contribution
 
 
