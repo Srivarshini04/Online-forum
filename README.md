@@ -43,10 +43,8 @@ To get started with this project, follow these steps:
 
 Clone the Repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/Srivarshini04/Online-forum.git
+
 Install Dependencies (if applicable, e.g., PHP or MySQL):
 
 For PHP, ensure you have PHP installed on your local machine. If not, download it from here.
