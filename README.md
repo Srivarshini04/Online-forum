@@ -66,7 +66,7 @@ Start the server and navigate to http://localhost/{project_folder}/ in your brow
 ->Screenshots
 
 
-go to screenshot folder to view the screenshots /Online-forum/screenshots
+go to screenshot folder to view the screenshots /Online-forum/screenshot
 
 ->Contribution
 
